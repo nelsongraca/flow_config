@@ -1,0 +1,8 @@
+{
+    "defaultLocale": "en",
+    "hostname": "moonraker.haus",
+    "port": 80,
+    "instancesDB": "moonraker",
+    "instances": []
+}
+
